@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/iamavi5/static/css/main.6fc37797.css",
+    "main.js": "/iamavi5/static/js/main.39ae20a6.js",
+    "static/media/ReactMealProject.png": "/iamavi5/static/media/ReactMealProject.7306e58662cf477e0c9a.png",
+    "static/media/NiceQuoteProjectPic.png": "/iamavi5/static/media/NiceQuoteProjectPic.c23a29f5b07862688c93.png",
+    "static/media/WeatherAppProject.png": "/iamavi5/static/media/WeatherAppProject.8f21bbb0646d8a9cf163.png",
+    "static/media/DP.jpg": "/iamavi5/static/media/DP.d633c329711fa9a26973.jpg",
+    "static/media/webdev3.jpeg": "/iamavi5/static/media/webdev3.cd2d12c1e9a1fd3d1889.jpeg",
+    "static/media/indFlag.jpeg": "/iamavi5/static/media/indFlag.546da5cace7090042fd8.jpeg",
+    "index.html": "/iamavi5/index.html",
+    "main.6fc37797.css.map": "/iamavi5/static/css/main.6fc37797.css.map",
+    "main.39ae20a6.js.map": "/iamavi5/static/js/main.39ae20a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc37797.css",
+    "static/js/main.39ae20a6.js"
+  ]
+}
