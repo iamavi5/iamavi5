@@ -1,0 +1,47 @@
+.contactSection {
+  padding-top: 140px;
+  background-color: #f7f7f7;
+}
+
+.contactSection p {
+  text-align: center;
+  color: #385319;
+  text-shadow: 0.2px 0.2px 0.2px #172815;
+  margin: 0 10px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.formContainer .graphicsContainer {
+  width: 50%;
+  margin: auto;
+}
+
+.formContainer .graphicsContainer img {
+  border-radius: 14px;
+  margin-left: 10%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1.2);
+}
+
+.formContainer .contactFormContainer {
+  width: 50%;
+}
+
+@media screen and (max-width: 1023px) {
+    .formContainer {
+        display: block;
+        margin: auto 10%;
+    }
+    .formContainer .graphicsContainer{
+        display: none;
+    }
+    .formContainer .contactFormContainer {
+        width: 100%;
+      }
+}

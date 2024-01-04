@@ -1,0 +1,54 @@
+.aboutSection{
+    display: block;
+    padding-top: 140px;
+}
+.aboutSection h2{
+    text-align: center;
+    color:#385319;
+    padding: 20px;
+}
+.aboutMeContainer{
+    display: flex;
+    flex-direction: row;
+}
+.aboutImage{
+    width: 50%;
+    margin: auto;
+}
+.aboutImage img{
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,1.2);
+}
+
+.aboutContent{
+    width: 50%;
+    margin: auto;
+}
+.aboutContent p{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+@media screen and (max-width: 720px){
+
+    .aboutMeContainer{
+        display: block;
+        padding-top: 40px;
+    }
+    .aboutImage{
+        padding-top: 40px;
+        width: 100%;
+        margin: auto;
+    }
+    .aboutContent{
+        padding-top: 40px;
+        width: 100%;
+        margin: auto;
+    }
+}
+
