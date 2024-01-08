@@ -38,6 +38,9 @@ const Navbar = () => {
         <li>
           <Link to="projectSection"  onClick={handleNavigationClick} smooth={true}  offset={50} duration={500}  >Projects</Link>
         </li>
+        {/* <li>
+          <Link to="achievementSection" onClick={handleNavigationClick} smooth={true}  offset={50} duration={500} >Skills</Link>
+        </li> */}
         <li>
           <Link to="contactSection" onClick={handleNavigationClick} smooth={true}  offset={50} duration={500}  >Contact</Link>
         </li>
