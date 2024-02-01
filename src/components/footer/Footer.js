@@ -24,7 +24,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#273b25", marginRight: "2rem" }}
               />
-              +91-783932524
+              +91-7839362524
             </p>
           </div>
 
